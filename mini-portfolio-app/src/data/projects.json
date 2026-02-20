@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "version": "1.0",
+    "lastUpdated": "2026-02-20",
+    "totalProjects": 6
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce Platform",
+      "description": "A full-featured e-commerce platform built with modern web technologies. Includes shopping cart, payment integration, and user authentication.",
+      "image": "https://via.placeholder.com/400x300/667eea/ffffff?text=E-Commerce+Platform",
+      "link": "https://github.com/example/ecommerce-platform",
+      "technologies": ["HTML5", "CSS3", "JavaScript", "Node.js"],
+      "category": "Web Development",
+      "date": "2026-01-15",
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "title": "Weather Dashboard",
+      "description": "Real-time weather dashboard with interactive charts and forecasts. Features geolocation support and multiple city tracking.",
+      "image": "https://via.placeholder.com/400x300/764ba2/ffffff?text=Weather+Dashboard",
+      "link": "https://github.com/example/weather-dashboard",
+      "technologies": ["JavaScript", "API Integration", "Chart.js"],
+      "category": "Web Application",
+      "date": "2025-12-10",
+      "status": "completed"
+    },
+    {
+      "id": 3,
+      "title": "Task Management App",
+      "description": "Collaborative task management application with drag-and-drop functionality, team collaboration features, and deadline tracking.",
+      "image": "https://via.placeholder.com/400x300/f093fb/ffffff?text=Task+Manager",
+      "link": "https://github.com/example/task-manager",
+      "technologies": ["React", "CSS Grid", "Local Storage"],
+      "category": "Productivity",
+      "date": "2025-11-20",
+      "status": "completed"
+    },
+    {
+      "id": 4,
+      "title": "Portfolio Website",
+      "description": "Responsive personal portfolio website with smooth animations, dark mode toggle, and contact form integration.",
+      "image": "https://via.placeholder.com/400x300/4facfe/ffffff?text=Portfolio+Site",
+      "link": "https://github.com/example/portfolio-website",
+      "technologies": ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
+      "category": "Web Design",
+      "date": "2026-02-01",
+      "status": "completed"
+    },
+    {
+      "id": 5,
+      "title": "Blog Platform",
+      "description": "Modern blogging platform with markdown support, comment system, and category-based filtering. SEO optimized with social sharing.",
+      "image": "https://via.placeholder.com/400x300/00f2fe/ffffff?text=Blog+Platform",
+      "link": "https://github.com/example/blog-platform",
+      "technologies": ["JavaScript", "Markdown", "CSS3"],
+      "category": "Content Management",
+      "date": "2025-10-15",
+      "status": "completed"
+    },
+    {
+      "id": 6,
+      "title": "Recipe Finder",
+      "description": "Interactive recipe search application with advanced filtering, nutritional information, and shopping list generator.",
+      "image": "https://via.placeholder.com/400x300/fa709a/ffffff?text=Recipe+Finder",
+      "link": "https://github.com/example/recipe-finder",
+      "technologies": ["JavaScript", "REST API", "Bootstrap"],
+      "category": "Web Application",
+      "date": "2025-09-28",
+      "status": "completed"
+    }
+  ]
+}
